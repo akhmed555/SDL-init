@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdbool.h>
 #include <SDL3/SDL.h>
-#include <SDL3/SDL_main.h> // Обязательно для корректной работы main в SDL3
+#include <SDL3/SDL_main.h> 
 #include <stdint.h>
 #include <locale.h>
 #include "display.c"
