@@ -25,7 +25,7 @@ int main(int argc, char* argv[]) {
         while (is_running) {
             process_input();
             update();
-            //render();
+            render();
         }
 
         cleanup();
